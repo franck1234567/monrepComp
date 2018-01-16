@@ -1,0 +1,12 @@
+1- Phrase 1
+2- Phrase 2
+Nouvelle phrase 1
+-----------------
+4- Phrase 4
+5- Phrase 5
+Nouvelle phrase 2
+6- Phrase 6
+-----------------
+7- Phr
+8- Phrase 8
+Nouvelle phrase 3
